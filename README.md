@@ -1,4 +1,4 @@
-﻿Pomodoro-like app for time management. Built with love and React :).
+﻿Pomodoro-like app for time management. Built with love and React.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
